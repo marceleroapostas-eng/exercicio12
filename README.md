@@ -1,8 +1,8 @@
-\# Exercício 12 - Maior Número
+# Exercício 12 - Maior Número
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa solicita dois números inteiros ao usuário e verifica qual deles 
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém dois números inteiros informados pelo usuário.
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -38,7 +38,7 @@ O programa apresenta qual dos dois números é o maior ou informa que os dois n�
 
 
 
-\## Autor
+## Autor
 
 
 
